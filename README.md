@@ -1,11 +1,25 @@
-### Hi there 👋 
 
-![](https://komarev.com/ghpvc/?username=Holychung)
+<h1 align="center">Hi 👋, I'm Ho-Yi Chung]!</h1>
 
-I'm [Ho-Yi Chung](https://holychung.medium.com/)!
+<p align="center">
+	<img
+		src="https://komarev.com/ghpvc/?username=Holychung&label=Profile"
+		alt="Holychung"
+	/>
+</p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Holychung&&show_icons=true&count_private=true&theme=algolia)
+- 🌱 I’m currently working as a Research Assisatant in NCTU.
+- 📝 I regularly write articles on [https://holychung.medium.com/](https://holychung.medium.com/) 
+- 📫 How to reach me **mickey94378@gmail.com** 
+- 🚀 Know about my experiences [https://www.linkedin.com/in/holychung/](https://www.linkedin.com/in/holychung/)
 
+<p align="center">
+	<img src="https://github-readme-stats.vercel.app/api?username=Holychung&&show_icons=true&count_private=true&theme=algolia" />
+</p>
+
+<p align="center">
+	<img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Holychung&layout=compact&theme=algolia" />
+</p>
 
 <!--
 **Holychung/Holychung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
