@@ -2,6 +2,8 @@
 
 ![](https://komarev.com/ghpvc/?username=Holychung)
 
+I'm [Ho-Yi Chung](https://holychung.medium.com/)!
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Holychung&&show_icons=true&count_private=true&theme=algolia)
 
 
