@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Ho-Yi Chung]!</h1>
+<h1 align="center">Hi 👋, I'm Ho-Yi Chung!</h1>
 
 <p align="center">
 	<img
