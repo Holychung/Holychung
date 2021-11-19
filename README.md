@@ -8,11 +8,11 @@
 	/>
 </p>
 
-- 🔭 I’m currently working as a Research Assisatant in NCTU.
-- 🌱 My academic website is [https://holychung.netlify.app/](https://holychung.netlify.app/)
+- 🌱 I’m currently working as a Research Assisatant in NCTU.
+- 🚀 My academic website is [https://holychung.netlify.app/](https://holychung.netlify.app/)
 - 📝 I regularly write articles on [https://holychung.medium.com/](https://holychung.medium.com) 
-- 📫 How to reach me mickey94378@gmail.com
-- 🚀 Know about my experiences [https://www.linkedin.com/in/holychung/](https://www.linkedin.com/in/holychung)
+<!-- - 📫 How to reach me mickey94378@gmail.com -->
+<!-- - 🚀 Know about my experiences [https://www.linkedin.com/in/holychung/](https://www.linkedin.com/in/holychung) -->
 
 <p align="center">
 	<img src="https://github-readme-stats.vercel.app/api?username=Holychung&&show_icons=true&count_private=true&theme=algolia" />
