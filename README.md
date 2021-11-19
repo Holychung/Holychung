@@ -8,8 +8,9 @@
 	/>
 </p>
 
-- 🌱 I’m currently working as a Research Assisatant in NCTU.
-- 📝 I regularly write articles on [**https://holychung.medium.com/**](https://holychung.medium.com) 
+- 🔭 I’m currently working as a Research Assisatant in NCTU.
+- 🌱 My academic website is [https://holychung.netlify.app/](https://holychung.netlify.app/)
+- 📝 I regularly write articles on [https://holychung.medium.com/](https://holychung.medium.com) 
 - 📫 How to reach me mickey94378@gmail.com
 - 🚀 Know about my experiences [https://www.linkedin.com/in/holychung/](https://www.linkedin.com/in/holychung)
 
