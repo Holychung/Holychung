@@ -19,7 +19,7 @@
 </p>
 
 <p align="center">
-	<img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Holychung&count_private=true&langs_count=9&hide=css,html,verilog&layout=compact&theme=algolia" />
+	<img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Holychung&count_private=true&langs_count=9&hide=css,html,verilog,shell&layout=compact&theme=algolia" />
 </p>
 
 <!--
